@@ -1,5 +1,8 @@
 _repo: The-Forms-of-Water-in-Clouds-and-Rivers-Ice-and-Glaciers_63803
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 63803-h/images/cover.png
 creator:
   author:
     agent_name: Tyndall, John
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/561
     wikipedia: http://en.wikipedia.org/wiki/John_Tyndall
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63803#The-Forms-of-Water-in-Clouds-and-Rivers-Ice-and-Glaciers
 gutenberg_issued: '2020-11-18'
 gutenberg_type: Text
 identifiers:
